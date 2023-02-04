@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(30, 29, 29);
+}
+.Container{
+    width: 60%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5rem;
+    border-radius: 1rem;
+
+    
+}
+.header-img img{
+    width:100%;
+    border-radius: 1rem 1rem 0rem 0 ;
+}
+
+.NamendOthers h1 {
+margin-top: .5rem;
+
+margin-bottom: 0%;
+}
+.NamendOthers p{
+    font-size: .6rem;
+
+}
+.changecolor{
+    color: gold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: .9rem;
+    
+}
+
+/* this is the style for the btn  */
+.emailBtn{
+       padding: .8rem;
+    border-radius: .4rem;
+    margin-left: 2rem;
+    color: black ;
+    background-color: white;
+
+}
+.emailBtn i {
+    padding-right: .1rem;
+}
+
+.LinkedIn{
+    padding: .8rem;
+    border-radius: .4rem;
+    margin-left: 2rem;
+    color: white ;
+    background-color: blue;
+
+}
+.LinkedIn i{
+    color: white;
+    padding-right: .1rem;
+
+}
+
+
+
+/* this is the syles for the footer */
+.Footerdiv{
+   height: 2rem;
+    
+  
+}
+
+.Footerdiv a i {
+    color: Gray ;
+    height: 2rem;
+    margin-left: 2rem;
+}
+
+/* this is the styles for the abouts and interest  */
+.aboutMe{
+    text-align: left;
+    margin-left: 1rem;
+}
+.Interests{
+    text-align: left;
+    margin-left: 1rem;
+    
+}
+.Interests p {
+    font-weight: lighter;
+}
